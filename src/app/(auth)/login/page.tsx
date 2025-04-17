@@ -43,7 +43,6 @@ const Login = () => {
 
     const onSubmit = async (value: LoginType) => {
         login(value);
-       
     }
 
     return (
